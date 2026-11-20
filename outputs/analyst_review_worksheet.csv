@@ -1,0 +1,13 @@
+source_row,candidate,context,actual,ml_predicted,ml_score_positive,ml_outcome,r1_outcome,r2_outcome,r3_outcome,ipv4_valid,category_hint,examiner_decision,examiner_reasoning
+204,256.0.1.26,<string>tincan_register_device_256.0.1.26.113</string>,negative,positive,0.8071,FP,TN,TN,TN,False,invalid_octet,,
+226,0.0.0.0,<string>0.0.0.0</string>,negative,negative,0.0483,TN,FP,TN,FP,True,bare_valid_ipv4,,
+228,0.0.0.0,<string>0.0.0.0</string>,negative,negative,0.0483,TN,FP,TN,FP,True,bare_valid_ipv4,,
+205,257.0.1.38,<string>tincan_register_device_257.0.1.38.116</string>,negative,negative,0.1452,TN,TN,TN,TN,False,invalid_octet,,
+198,64.98.122.70,<string>64.98.122.70</string>,positive,positive,0.7768,TP,TP,TP,TP,True,bare_valid_ipv4,,
+199,20.10.0.8,<string>20.10.0.8</string>,positive,positive,0.8303,TP,TP,TP,TP,True,bare_valid_ipv4,,
+192,20.10.0.8,<string>20.10.0.8</string>,positive,positive,0.8303,TP,TP,TP,TP,True,bare_valid_ipv4,,
+191,10.5.0.1,<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>,positive,positive,0.938,TP,TP,TP,FN,True,suffix_contamination,,
+193,135.0.0.22,<string>135.0.0.22.118</string>,positive,positive,0.9489,TP,TP,TP,FN,True,suffix_contamination,,
+195,10.5.0.1,<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>,positive,positive,0.938,TP,TP,TP,FN,True,suffix_contamination,,
+184,2.20.31.4,<string>2.20.31.4</string>,positive,positive,0.9581,TP,TP,TP,TP,True,bare_valid_ipv4,,
+185,13.3.1.17,<string>13.3.1.17D50</string>,positive,positive,0.9344,TP,TP,TP,TP,True,embedded_other_context,,

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+# historical files with embedded API keys: never commit
+work/compute_classification_metrics.ipynb
+work/file_manager.ipynb
+work/*.pptx
+*upload_dataset*
+*create_fine_tune*
+*check_fine_tune*
+*predict_ip_single*
+*view_fine_tuning*
+# issued course script, not part of my own work
+work/preprocess_dataset.py
