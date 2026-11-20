@@ -27,3 +27,6 @@ The historical upload / create-job / status / prediction scripts were NOT run: t
 
 ## Outputs
 evidence_manifest.csv, candidate_review.csv, predictions.csv, metrics.csv, analyst_review_worksheet.csv, figures/*.png, environment.json
+
+## Demonstration
+Recording: https://drive.google.com/file/d/192eZcuZ2YieXnMsLWENE8mOuv7dIHdYj/view?usp=drivesdk (see DEMO.md)
